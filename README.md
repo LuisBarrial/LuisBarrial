@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente aprendiendo **C#**
 
-- 💬 Pregúntame sobre: **React, Java**
+- 💬 Pregúntame sobre: **Angular,React, Java**
 
 - 📫 Correo: **labi_sere@hotmail.com**
 
